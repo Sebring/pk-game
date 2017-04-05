@@ -1,3 +1,3 @@
-export const WIDTH = 960
-export const HEIGHT = 540
-export const BG = 'thistle'
+export const W = 960
+export const H = 540
+export const BG = '#eee'
