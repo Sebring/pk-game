@@ -19,7 +19,7 @@ global.paths = {
         return this.js + '/**/*.js';
     },
     get jsEntry() {
-        return this.js + '/index.js';
+        return this.js + '/game.js';
     },
     get index() {
         return './index.html';
